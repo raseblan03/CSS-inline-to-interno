@@ -1,0 +1,51 @@
+      /*SELECTOR DE ELEMENTO. Selecciona a todos los elementos párrafos y les aplica los siguientes estilos:*/
+      /*
+        p{
+            color: rgba(0,0,255,0.5); 
+            font-size: 30px; 
+            padding: 10px 20px;
+        }
+        */
+      /*SELECTOR DE CLASE*/
+      
+      .idea-principal {
+          color: rgba(0, 0, 255, 0.5);
+          font-size: 30px;
+          padding: 10px 20px;
+      }
+      /*SELECTOR DE ID*/
+      
+      #software {
+          color: red;
+      }
+      
+      #parrafo {
+          color: blue;
+      }
+      
+      #parrafo1 {
+          color: red;
+      }
+      
+      #lista {
+          background-color: rgba(0, 255, 0, 0.5);
+      }
+      
+      #cuerpo {
+          margin: 0;
+          padding-left: 20%;
+          padding-right: 20%;
+          background-color: aliceblue;
+      }
+      
+      b {
+          color: green;
+      }
+      
+      * {
+          font-family: 'Rampart One', cursive
+      }
+      
+      ol li p {
+          background-color: yellow;
+      }
